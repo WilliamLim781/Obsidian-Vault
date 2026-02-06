@@ -1,0 +1,4 @@
+## what is it?
+primarily FPGAs are made of D-flip-flops but there are others like jk flip-flops  and T flip-flops. A D flip-flop a circuit that takes in data as an input and outputs that data. It also has additional inputs like the $Enable$ (EN) and $Clock$ (CLK). Enable is a input that controls whether the D flip-flop will take the input and output that data. Clock is a means of controlling when the Data is outputted. So basically you can take an data input in one clock pulse and the next clock pulse that data will be outputted. This behavior is basically a [[buffer]] so the data gets buffered between the input and the output. 
+
+![[Timing Diagram.png]]

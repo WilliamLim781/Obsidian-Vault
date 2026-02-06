@@ -1,0 +1,3 @@
+A way to view circuits where all you know are the inputs and the output of the circuit. You don't have info on the internals of the circuit/machine just the inputs it takes and the outputs. This type of idea is used in higher level diagrams where the specific details aren't as relevant(or may over complicate a design). Black boxes allow for higher level diagrams to be more compact and be more focused on the Higher level functions rather than the lower level details.
+
+![[Black box.png]]

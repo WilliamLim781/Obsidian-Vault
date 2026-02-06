@@ -1,0 +1,1 @@
+Key specs: resolution, sampling rate, ENOB, SNR, INL/DNL

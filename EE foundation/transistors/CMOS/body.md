@@ -1,0 +1,2 @@
+This is the substrate the surround the transistor for and n-type that would be a p-type(positively doped substrate) and for a p-type that would be a n-type substrate(negatively doped substrate). The body is also referred to as the bulk as well. The body is also considered the fourth pin of a mosfet which may or may not  be included in diagrams. 
+![[Body picture.png]]

@@ -1,0 +1,1 @@
+HDL or Hardware descriptor language is the language used to write code for FPGAs. The two common HDLs are Verilog and VHDL(with system Verilog acting as a new version of Verilog). HDL is code that directly describes the wires, logic gates, and other discrete resources on the FPGA.

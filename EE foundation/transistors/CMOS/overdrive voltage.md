@@ -1,0 +1,3 @@
+overdrive voltage is the voltage that is applied to a MOSFET gate that is above its [[Threshold voltage]] ($V_{th}$) . The equation that gives you overdrive voltage is seen below
+$$V_{gs} - V_{th}$$
+**Note:** that voltage to the gate is with respect to the source($V_{gs} = V_{g} - V_{s}$ which is the voltage at the gate with respect to the voltage to the source.). so intuitively it makes sense that we subtract the voltage applied to the gate(with respect to the source) and subtract it with the [[Threshold voltage]] (minimum voltage needed to apply to the gate to "open" the MOSFET)

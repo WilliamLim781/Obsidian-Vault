@@ -1,0 +1,1 @@
+circuits can be simplified to just a single power supply and a single resistance. The method to do so requires  the use of series resistance and parallel resistances to simplify the circuit into one resistance

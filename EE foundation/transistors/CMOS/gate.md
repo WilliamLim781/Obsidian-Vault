@@ -1,0 +1,1 @@
+the center of the mosfet that controls whether or not a flow of electrons is allowed to pass between the [[drain]] and the [[source]] 

@@ -1,0 +1,3 @@
+A filter that removes "high frequencies" from a signal. The picture below demonstrates the behavior of a typical low pass filter
+![[low pass filter behavior.png]]
+desired frequencies will be in the "Pass band" which has a 0 dB [[gain(TODO)]] which basically means the frequency is neither amplified or attenuated. The "Stop Band" is the region where frequencies start to become attenuated. These are the "High Frequencies" that the low pass filter will filter out. The corner frequency is when the signal is attenuated by -3dB which is when the signal is half of its power but .707 of its original amplitude. This also corresponds with a $45\degree$ phase shift which means that signal is move by a factor of $\frac{\sqrt{2}}{2}$ or $45\degree$ 

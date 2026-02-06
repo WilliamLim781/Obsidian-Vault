@@ -1,0 +1,1 @@
+a switching power supply, which is sometimes referred to as a switched-mode power supply(SMPS), is a type of power converter that takes electrical power and switches the voltage level to another voltage level using high-frequency switching technique(google definition).

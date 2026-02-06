@@ -1,0 +1,1 @@
+voltage gain, current gain, power gain

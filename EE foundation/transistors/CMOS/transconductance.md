@@ -1,0 +1,3 @@
+also known as $g_{m}$ represents the sensitivity of the device. So for high $g_{m}$ a small change is $V_{gs}$ results in a large change in $I_{d}$ . $g_m$ is expressed as 1/Ω or in siemens(s). An example would be 1/(100Ω) = 0.01 S. A saying that is used in analog devices is that a MOSFET is a "transconductor" or a "V/I converter" . This means that a MOSFET converts a change in voltage to a change in current. $g_m$ is equal to the inverse of $R_{on}$ in the triode region.  the equation for transconductance is isn't as simple as the inverse of resistance and can be seen below 
+![[transconductance equation.png]]also the behavior of transconductance can be seen below when certain values are held constant
+![[Behavior of transconductance.png]]

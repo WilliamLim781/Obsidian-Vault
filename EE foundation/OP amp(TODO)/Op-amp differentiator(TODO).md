@@ -1,0 +1,1 @@
+https://www.circuitbread.com/tutorials/op-amp-differentiator

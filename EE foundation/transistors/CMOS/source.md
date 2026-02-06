@@ -1,0 +1,1 @@
+a part of the mosfet that is connected to the drain of a mosfet. The flow of electrons from the source to the drain is influenced by the voltage that applied to the [[gate]] of the mosfet

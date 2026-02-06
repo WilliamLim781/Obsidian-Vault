@@ -1,0 +1,1 @@
+the ratio between the **WIDTH** and the **LENGTH** of a MOSFET is known as the **Aspect ratio**

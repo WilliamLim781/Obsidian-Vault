@@ -1,0 +1,1 @@
+![[Summing amplifier.png]]The summing amplifier is an amplifier that adds multiple signals together. $R_{f}$ and the $R{n}$ where n is the number next to the resistor. The use of the resistors can make it so different signals can be added with different gains so certain signals can have a bigger sum in the output

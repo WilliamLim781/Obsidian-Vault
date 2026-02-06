@@ -1,0 +1,2 @@
+the most simplistic use of a mosfet is when it is used as a switch. The picture below shows a n-type mosfet where the source and drain are connected(shorted) when the gate  of the mosfet is exposed to a voltage(HIGH) and the source and drain are not connected(open) when there is no presence of voltage at the gate(LOW). This basic function allows for mosfets to be used a switches and is what is commonly used in digital designs and is what people refer to when talking about processors that contain billions of transistors.
+![[nmos switch photo.png]]

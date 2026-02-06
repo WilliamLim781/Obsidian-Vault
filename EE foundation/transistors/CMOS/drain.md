@@ -1,0 +1,1 @@
+one side of a mosfet that is connected to the source of the mosfet where the flow of electrons from the drain to the [[source]] is influenced by the voltage that is present at the [[gate]] of a mosfet

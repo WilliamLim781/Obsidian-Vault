@@ -1,0 +1,6 @@
+- [[Flash Converter TODO]] 
+- [[Successive Approximation Register (SAR) TODO]] 
+- [[Sigma-Delta (ΔΣ) TODO]]
+- [[Pipeline TODO]]  
+- [[Dual Slope (Integrating) TODO]] 
+- [[Delta TODO]] 

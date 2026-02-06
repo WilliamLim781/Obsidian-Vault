@@ -1,0 +1,1 @@
+Threshold voltage is the minimum voltage that is required for the gate of the transistor to be considered "open"(flow of electrons between the source and drain begins)
