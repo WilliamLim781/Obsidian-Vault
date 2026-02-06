@@ -1,0 +1,2 @@
+stands for First In First Out and is a type of buffer that takes in values and outputs the values that entered the buffer ![[FPGA/photos/FIFO.png]] 
+The picture above is a demonstration on the movement of data in a FIFO. Basically the first value that enters the [[buffer]] is queued to be the first value to leave the said [[buffer]].
