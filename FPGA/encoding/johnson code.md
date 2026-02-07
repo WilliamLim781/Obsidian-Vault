@@ -1,0 +1,1 @@
+also known as a creeping counter is a type of synchronous counter. The idea is that the complemented output of a [[Flip-Flop]] is connected to the input of the first [[Flip-Flop]]. This typically means that to make a n bit johnson code counter you need n-bits to make it.

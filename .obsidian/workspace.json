@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FPGA/encoding/gray code.md",
+                "file": "FPGA/encoding/johnson code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gray code"
+              "title": "johnson code"
             }
           }
         ],
@@ -197,10 +197,11 @@
   },
   "active": "be13c32bbd0737b2",
   "lastOpenFiles": [
-    "Pasted image 20260205220836.png",
+    "FPGA/photos/gray code.png",
+    "FPGA/encoding/johnson code.md",
+    "FPGA/encoding/gray code.md",
     "Pasted image 20260205220809.png",
     "FPGA/Buffer/FIFO.md",
-    "FPGA/encoding/gray code.md",
     "FPGA/encoding",
     "FPGA/basics",
     "FPGA/Finite State Machine(FSM).md",
@@ -229,7 +230,6 @@
     "FPGA/photos/Black box.png",
     "FPGA/photos",
     "FPGA/photos/LUT.png",
-    "FPGA/photos/AND GATE.png",
     "FPGA",
     "unorganized stuff/Untitled.base",
     "unorganized stuff",
@@ -243,7 +243,6 @@
     "EE foundation/differential input.md",
     "EE foundation/transistors/CMOS/aspect ratio.md",
     "analog hardware engineer/Data Converters/Nyquist theorem and Anti-aliasing filters (TODO).md",
-    "analog hardware engineer/Data Converters/Fan Folding.md",
     "Untitled 2.base"
   ]
 }
