@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FPGA/encoding/johnson code.md",
+                "file": "FPGA/FPGA History/PLA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "johnson code"
+              "title": "PLA"
             }
           }
         ],
@@ -197,10 +197,14 @@
   },
   "active": "be13c32bbd0737b2",
   "lastOpenFiles": [
+    "FPGA/FPGA History/PAL.md",
+    "FPGA/FPGA History/PLA.md",
+    "FPGA/FPGA History/PLD.md",
+    "FPGA/encoding/gray code.md",
+    "FPGA/encoding/johnson code.md",
+    "FPGA/FPGA History",
     "README.md",
     "FPGA/photos/gray code.png",
-    "FPGA/encoding/johnson code.md",
-    "FPGA/encoding/gray code.md",
     "Pasted image 20260205220809.png",
     "FPGA/Buffer/FIFO.md",
     "FPGA/encoding",
@@ -240,10 +244,6 @@
     "EE foundation/transistors/BJT(TODO).md",
     "EE foundation/transistors/CMOS/source.md",
     "EE foundation/transistors/CMOS/Threshold voltage.md",
-    "EE foundation/transistors/CMOS/MOSFET structure.md",
-    "EE foundation/differential input.md",
-    "EE foundation/transistors/CMOS/aspect ratio.md",
-    "analog hardware engineer/Data Converters/Nyquist theorem and Anti-aliasing filters (TODO).md",
-    "Untitled 2.base"
+    "EE foundation/transistors/CMOS/MOSFET structure.md"
   ]
 }
