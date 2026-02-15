@@ -1,0 +1,1 @@
+Generic Array Logic(GAL) are generally considered a milestone for the acceptance  of PLDs in the market. Employed the [[PAL]] architecture plus a "macrocell" at each output. They were introduced by Lattice in the 1980s and was basically an improved version of the PAL.
